@@ -1,2 +1,2 @@
 # DEP-MGPU
-Data Enginerring Platforms
+Лабораторная работа 1. Основы Data Engineering: работа с Git, архитектурой и дашбордами
