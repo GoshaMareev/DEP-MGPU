@@ -1,2 +1,2 @@
 # DEP-MGPU
-Data Enginerring Platforms
+Data Engineering Platforms
